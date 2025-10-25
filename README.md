@@ -57,10 +57,10 @@ Make sure your webcam is connected or change the video source inside the code.
 
 ## 📊 Comparison Summary
 
-| Model            | Technique                          | Speed (FPS) | Accuracy | Works Best For              |
-|------------------|------------------------------------|--------------|-----------|------------------------------|
-| **Haar Cascade** | Haar-like features + Cascade Classifier | ⚡ Fast       | ⚠️ Moderate | Well-lit, frontal faces      |
-| **HOG Detector** | Histogram of Oriented Gradients     | 🐢 Slower     | ✅ High    | Varying angles & lighting    |
+| Model            | Technique                               | Speed (FPS) | Accuracy | Works Best For            |
+|------------------|-----------------------------------------|-------------|----------|---------------------------|
+| **Haar Cascade** | Haar-like features + Cascade Classifier | Fast        | Moderate | Well-lit, frontal faces   |
+| **HOG Detector** | Histogram of Oriented Gradients         | Slower      |   High   | Varying angles & lighting |
 
 ---
 
@@ -76,6 +76,4 @@ Make sure your webcam is connected or change the video source inside the code.
 
 ---
 
-## 🧑‍💻 Author
-**Satyam**  
-Computer Science Engineer | MERN Developer | AI & CV Enthusiast
+
